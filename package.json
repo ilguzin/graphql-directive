@@ -2,7 +2,7 @@
   "name": "graphql-directive",
   "version": "0.2.1",
   "main": "lib/index.js",
-  "repository": "git@github.com:smooth-code/graphql-directive.git",
+  "repository": "git@github.com:ilguzin/graphql-directive.git",
   "author": "Greg Bergé <greg@smooth-code.com>",
   "keywords": [
     "graphql",

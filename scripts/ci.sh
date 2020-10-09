@@ -4,6 +4,12 @@ yarn build
 echo "Linting"
 yarn lint
 
+echo "Installing graphql@15.3.0"
+yarn add graphql@15.3.0
+
+echo "Running tests on graphql@15.3.0"
+yarn test
+
 echo "Installing graphql@^0.12"
 yarn add graphql@^0.12
 
